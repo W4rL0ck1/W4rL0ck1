@@ -2,7 +2,7 @@
   <img 
     title="Cube"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/surpresa.gif?raw=true"
-    width="960"
+    width="520"
     heigth="120" 
     style="
       border-radius: 4px;
