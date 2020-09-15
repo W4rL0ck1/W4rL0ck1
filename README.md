@@ -65,33 +65,10 @@ using System;
             if you need to contact me, feel free to call me on my linkedin above or thought my email
             also on this form")
             
-            
-        }
-        }
-        }
+       
 
 
- <a
-  <img  
-    title=""
-    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
-    width="100"
-    heigth="38" 
-    style="
-      border-radius: 4px;
-      position: relative;
-      width: 32px;
-      height: 32px;
-      margin-left: 16px;
-    "
-  ></a>
      
   
-
----------------------------------// Sobre Mim... //----------------------------
-
-
-
----
 
  
