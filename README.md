@@ -1,9 +1,9 @@
-<h2>Hellloooou! Bem Vindo(a)!
+<h2>Hellloooou! Bem Vindo(a)! <br>
   <img 
     title="Cube"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/surpresa.gif?raw=true"
-    width="100"
-    heigth="290" 
+    width="960"
+    heigth="720" 
     style="
       border-radius: 4px;
       position: relative;
