@@ -19,7 +19,7 @@
     title="Coding"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding2.gif?raw=true" 
     width="400" 
-    height="200"
+    height="400"
     align="right"
   />
 
