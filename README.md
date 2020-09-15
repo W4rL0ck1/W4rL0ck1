@@ -62,8 +62,7 @@ using System;
             Contato.email =  Renato.santos.corporativo@outlook.com  <br>
             Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)" 
             
-  <a
-  <img  
+  <a> <img  
     title="aaaa"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
     width="100"
