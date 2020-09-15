@@ -65,8 +65,8 @@ using System;
   <h1> <img 
     title="aaaa"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
-    width="100"
-    heigth="38" 
+    width="420"
+    heigth="120" 
     style="
       border-radius: 4px;
       position: relative;
