@@ -59,7 +59,7 @@ using System;
             Aluno.Idade = AnoAtual - AnoNascimento; <br>
             ConhecimentoEmSO = "Windows Avançado" + "Linux Básico" <br>
             Faculdade.Semestre = "3/6"; <br>
-            Contato.email = <h1> "Renato.santos.corporativo@outlook.com" </h1> <br>
+            Contato.email =  Renato.santos.corporativo@outlook.com  <br>
             Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)"  <img 
     title="Grr"
     src=""
