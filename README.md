@@ -33,9 +33,9 @@
 </p>
   <a
   href="https://www.linkedin.com/in/renato-santos-a045b6116/"><img  
-    title="Linkedin"
-    src=""
-    width="42"
+    title=""
+    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/logo-linkedin-1024.png?raw=true"
+    width="100"
     heigth="38" 
     style="
       border-radius: 4px;
