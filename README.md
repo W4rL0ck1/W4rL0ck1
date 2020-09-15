@@ -1,7 +1,7 @@
-<h2>Hellloooou! Bem Vindo(a)! <br>
+<h2>Hellloooou mi Amigooo ! Bem Vindo(a)! <br>
   <img 
     title="Cube"
-    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/surpresa.gif?raw=true"
+    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/thumbs%20up.gif?raw=true"
     width="520"
     heigth="120" 
     style="
