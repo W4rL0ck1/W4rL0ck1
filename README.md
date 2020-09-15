@@ -61,11 +61,12 @@ using System;
             Faculdade.Semestre = "3/6"; <br>
             Contato.email =  Renato.santos.corporativo@outlook.com  <br>
             Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)" <br>
-   <img 
-    title="Cube"
-    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/thumbs%20up.gif?raw=true"
-    width="420"
-    heigth="120" 
+   <a
+  <img  
+    title=""
+    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
+    width="100"
+    heigth="38" 
     style="
       border-radius: 4px;
       position: relative;
@@ -73,7 +74,7 @@ using System;
       height: 32px;
       margin-left: 16px;
     "
-  >  <br>
+  ></a> <br>
             Message.show("Welcome my Homie, be free to fork my projects and ask anything if necessary,
             if you need to contact me, feel free to call me on my linkedin above or thought my email
             also on this form")
