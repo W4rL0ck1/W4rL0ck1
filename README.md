@@ -60,7 +60,7 @@ using System;
             ConhecimentoEmSO = "Windows Avançado" + "Linux Básico" <br>
             Faculdade.Semestre = "3/6"; <br>
             Contato.email =  Renato.santos.corporativo@outlook.com  <br>
-            Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)"
+            Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)" <br> <br>
             Message.show("Welcome my Homie, be free to fork my projects and ask anything if necessary,
             if you need to contact me, feel free to call me on my linkedin above or thought my email
             also on this form")
