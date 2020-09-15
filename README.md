@@ -24,11 +24,11 @@
   />
 
 <p>
-  <em>Estudante de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Cubatão
-  <a 
+  <em>Estudante de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - 
+   <a 
     title="IFSP"
     href="https://www.ifsp.edu.br/"
-  >IFSP</a> <br />
+  >Campus Cubatão</a> <br />
   </em>
 </p>
   <a
