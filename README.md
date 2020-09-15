@@ -60,9 +60,10 @@ using System;
             ConhecimentoEmSO = "Windows Avançado" + "Linux Básico" <br>
             Faculdade.Semestre = "3/6"; <br>
             Contato.email =  Renato.santos.corporativo@outlook.com  <br>
-            Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)"  <img 
+            Favorite.Languages = "C#" + "java" + "Javascript(Sim eu sei que voce vai dizer que javascript não é linguaguem de programação seu Linguajofóbico!)" <br>
+            <img 
     title="Grr"
-    src=""
+    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
     width="42"
     heigth="38" 
     style="
