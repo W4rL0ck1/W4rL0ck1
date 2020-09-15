@@ -73,7 +73,7 @@ using System;
       width: 32px;
       height: 32px;
       margin-left: 16px;"
-  ></a>
+  > </img> </a>
             
             <br> <br>
             Message.show("Welcome my Homie, be free to fork my projects and ask anything if necessary,
