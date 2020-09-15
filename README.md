@@ -3,7 +3,7 @@
     title="Cube"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/surpresa.gif?raw=true"
     width="960"
-    heigth="720" 
+    heigth="420" 
     style="
       border-radius: 4px;
       position: relative;
