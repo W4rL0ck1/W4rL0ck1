@@ -18,7 +18,7 @@
 <img
     title="Coding"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding2.gif?raw=true" 
-    width="200" 
+    width="400" 
     height="200"
     align="right"
   />
