@@ -55,8 +55,7 @@ using System;
     { <br>
         static void Main(string[] args) <br>
         { <br>
-            Aluno.Nome = "Renato"; <br>
-            Aluno.Idade = AnoAtual - AnoNascimento; <br>
+            Aluno.Nome = "Renato"; <br> 
             ConhecimentoEmSO = "Windows Avançado" + "Linux Básico" <br>
             Faculdade.Semestre = "3/6"; <br>
             Contato.email =  Renato.santos.corporativo@outlook.com  <br>
