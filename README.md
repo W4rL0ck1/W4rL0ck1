@@ -31,6 +31,14 @@
   >Campus Cubatão</a> <br />
   </em>
 </p>
+<p>
+  <em> Meus projetos Acadêmicos se encontram ao lado <-------- Na minha organizaçào, ou clicando    
+   <a 
+    title="Organizacao IFSP"
+    href="https://github.com/Material-IFSP"
+  >Aqui</a> <br />
+  </em>
+</p>
   <a
   href="https://www.linkedin.com/in/renato-santos-a045b6116/"><img  
     title=""
@@ -80,7 +88,7 @@ using System;
             also on this form")
             
             
-   <h6> <img     
+   <h6><img     
    title="aaaa"
    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding3.gif?raw=true"
    width="820"
