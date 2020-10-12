@@ -88,7 +88,7 @@ using System;
             also on this form")
             
             
-   <h6><img     
+   <h6> kEEP SAFE AND LET'S CODE!<img     
    title="aaaa"
    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding3.gif?raw=true"
    width="820"
