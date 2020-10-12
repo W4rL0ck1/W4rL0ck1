@@ -81,14 +81,13 @@ using System;
       height: 32px;
       margin-left: 16px;"
   > </img> </h1>
-            
-            <br> <br>
+           <h1> 
             Message.show("Welcome my Homie, be free to fork my projects and ask anything if necessary,
             if you need to contact me, feel free to call me on my linkedin above or thought my email
-            also on this form")
+            also on this form") <br> <br>
+            kEEP SAFE AND LET'S CODE!
+</h1>
             
-            
-            <H1> kEEP SAFE AND LET'S CODE! </H1>
    <h6><img     
    title="aaaa"
    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding3.gif?raw=true"
