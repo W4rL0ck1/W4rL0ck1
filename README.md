@@ -63,10 +63,10 @@ namespace About Me 😁😎
    ```         
             
   <h1> <img 
-    title="aaaa"
+    title="MuyBrabo"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
-    width="420"
-    heigth="120" 
+    width="620"
+    heigth="220" 
     style="
       border-radius: 4px;
       position: relative;
@@ -75,15 +75,15 @@ namespace About Me 😁😎
       margin-left: 16px;"
   > </img> </h1>
            <h1> 
-            Message.Show("Welcome my Homie, be free to fork my projects and ask anything if necessary,
+            Message.Show("Be free to fork my projects and ask anything if necessary,
             if you need to contact me, feel free to call me on my linkedin below or thought my email
             also on this form") <br>
  <a
   href="https://www.linkedin.com/in/renato-santos-a045b6116/"><img  
-    title=""
+    title="Linkedin"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/logo-linkedin-1024.png?raw=true"
-    width="100"
-    heigth="38" 
+    width="200"
+    heigth="78" 
     style="
       border-radius: 4px;
       position: relative;
