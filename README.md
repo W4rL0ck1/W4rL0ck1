@@ -56,7 +56,7 @@ namespace About Me 😁😎
             OperationalSystem.Knowledge = $"{Advanced Windows} and {basic Linux}"; 
             Contact.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
             Favorite.Languages = $"{CSharp},{java}, and {Javascript},
-            Yes, i know you will say that javascript isn't a programing language, your Languagephobic 😡😤🙄!" ;
+            Yes, i know you will say that javascript isn't a programing language, your Languagephobic 😡😤🙄!";
         }
     }
 }
