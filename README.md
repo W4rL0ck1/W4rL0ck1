@@ -106,6 +106,7 @@ namespace About Me 😁😎
       width: 32px;
       height: 32px;
       margin-left: 16px;
+      margin-right: 16px;
     "
   ></a>
             kEEP SAFE AND LET'S CODE!
