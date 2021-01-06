@@ -2,7 +2,7 @@
   <img 
     title="WhatsupMyDudo"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/thumbs%20up.gif?raw=true"
-    width="920"
+    width="960"
     heigth="120" 
     style="
       border-radius: 4px;
@@ -17,8 +17,8 @@
 <img
     title="Coding"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding2.gif?raw=true" 
-    width="400" 
-    height="400"
+    width="280" 
+    height="490"
     align="right"
   />
 
@@ -63,9 +63,9 @@ namespace About Me 😁😎
    ```         
             
   <h1> <img 
-    title="MuyBrabo"
+    title="MuyBraboGrrrrrrrr"
     src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
-    width="620"
+    width="960"
     heigth="220" 
     style="
       border-radius: 4px;
@@ -74,10 +74,26 @@ namespace About Me 😁😎
       height: 32px;
       margin-left: 16px;"
   > </img> </h1>
-           <h1> 
+  
+```CSharp
+using System;
+
+namespace About Me 😁😎
+{
+    class Program Form
+    { 
+        static void Main(string[] args)
+        { 
             Message.Show("Be free to fork my projects and ask anything if necessary,
             if you need to contact me, feel free to call me on my linkedin below or thought my email
-            also on this form") <br>
+            also on this form");
+        }
+    }
+}
+```    
+ 
+            
+   <h1>
  <a
   href="https://www.linkedin.com/in/renato-santos-a045b6116/"><img  
     title="Linkedin"
@@ -92,7 +108,6 @@ namespace About Me 😁😎
       margin-left: 16px;
     "
   ></a>
- <br>
             kEEP SAFE AND LET'S CODE!
 </h1>
             
@@ -100,12 +115,10 @@ namespace About Me 😁😎
    title="aaaa"
    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding3.gif?raw=true"
    width="820"
-   heigth="420" 
+   heigth="100"
    style="
       border-radius: 4px;
       position: relative;
-      width: 32px;
-      height: 32px;
       margin-left: 16px;"
   > </img> </h6>
             
