@@ -55,7 +55,7 @@ namespace About Me 😁😎
             Student.Name = "Renato Santos"; 
             OperationalSystem.Knowledge = $"{Advanced Windows} and {basic Linux}"; 
             Contact.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
-            Favorite.Languages = $"{CSharp},{java}, and {Javascript},
+            Favorite.Languages = $"{CSharp},{java}, and {Javascript} 
             Yes, i know you will say that javascript isn't a programing language, your Languagephobic 😡😤🙄!";
         }
     }
