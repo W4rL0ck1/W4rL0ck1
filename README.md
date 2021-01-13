@@ -55,30 +55,16 @@ namespace About Me 😁😎
             Student.Name = "Renato Santos"; 
             OperationalSystem.Knowledge = $"{Advanced Windows} and {basic Linux}"; 
             Contact.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
-            Favorite.Languages = $"{CSharp},{java}, and {Javascript} 
-            Yes, i know you will say that javascript isn't a programing language, your Languagephobic 😡😤🙄!";
+            stack = $"{CSharp} in backend with {Angular} on the frontend"; 
         }
     }
 }
-   ```         
-            
-  <h1> <img 
-    title="MuyBraboGrrrrrrrr"
-    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/grr.gif?raw=true"
-    width="960"
-    heigth="220" 
-    style="
-      border-radius: 4px;
-      position: relative;
-      width: 32px;
-      height: 32px;
-      margin-left: 16px;"
-  > </img> </h1>
+   ```        
   
 ```CSharp
 using System;
 
-namespace About Me 😁😎
+namespace QuestionsAndContact
 {
     class Program Form
     { 
