@@ -60,43 +60,14 @@ namespace About Me 😁😎
     }
 }
    ```        
-  
-```CSharp
-using System;
 
-namespace QuestionsAndContact
-{
-    class Program Form
-    { 
-        static void Main(string[] args)
-        { 
-            Message.Show("Be free to fork my projects and ask anything if necessary,
-            if you need to contact me, feel free to call me on my linkedin below or thought my email
-            also on this form");
-        }
-    }
-}
-```    
  
             
    <h1>
- <a
-  href="https://www.linkedin.com/in/renato-santos-a045b6116/"><img  
-    title="Linkedin"
-    src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/logo-linkedin-1024.png?raw=true"
-    width="200"
-    heigth="78" 
-    style="
-      border-radius: 4px;
-      position: relative;
-      width: 32px;
-      height: 32px;
-      margin-left: 16px;
-      margin-right: 16px;
-    "
-  ></a>
+      <a style="border-radius: 4px; position: relative;> 
             kEEP SAFE AND LET'S CODE!
-</h1>
+      </a>
+   </h1>
             
    <h6><img     
    title="aaaa"
