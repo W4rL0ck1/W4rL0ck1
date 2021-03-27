@@ -1,4 +1,4 @@
-<h2>Hellloooou mi Amigooo ! Bem Vindo(a)! </h2>
+<h2>Holaaaaa mi amigo ! Bem Vindo(a)! </h2>
 
  <br>
  
