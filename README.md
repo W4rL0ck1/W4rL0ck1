@@ -55,7 +55,7 @@ namespace About Me 😁😎
             Student.Name = "Renato Santos"; 
             OperationalSystem.Knowledge = $"{Advanced Windows} and {basic Linux}"; 
             Contact.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
-            stack = $"{CSharp} in backend with {Angular} on the frontend"; 
+            stack = $"{CSharp} with {Angular} and {SqlServer} or {MySql} "; 
         }
     }
 }  
