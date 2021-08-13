@@ -52,10 +52,9 @@ namespace About Me 😁😎
     { 
         static void Main(string[] args)
         { 
-            Student.Name = "Renato Santos"; 
-            OperationalSystem.Knowledge = $"{Advanced Windows} and {basic Linux}"; 
-            Contact.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
-            stack = $"{CSharp} with {Angular} and {SqlServer} or {MySql} "; 
+            Person.Name = "Renato Santos"; 
+            Person.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
+            Person.Stack = $"{CSharp} with {Angular} and {SqlServer} or {MySql} "; 
         }
     }
 }  
