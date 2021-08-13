@@ -12,12 +12,10 @@
       </a>
 </div>
 
-<div>
-<a  width="300" 
-    height="1200"> </a>
-
+<div style="width="280";height="420">
 </div>
- <div>
+
+<div>
      <a>
         <img
         title="Coding"
