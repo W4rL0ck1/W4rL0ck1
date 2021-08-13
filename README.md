@@ -1,4 +1,4 @@
-<h2>Holaaaaa mi amigo ! Bem Vindo(a)! </h2>
+<h2>Bem Vindo(a)! </h2>
 
  <br>
  
@@ -37,6 +37,17 @@
    <a 
     title="Organizacao IFSP"
     href="https://github.com/Material-IFSP">
+    Aqui
+    </a> 
+  <br>
+  </em>
+</p> 
+
+<p>
+  <em> Meus projetos pessoais se encontram    
+   <a 
+    title="Organizacao IFSP"
+    href="https://github.com/W4rL0ck1?tab=repositories">
     Aqui
     </a> 
   <br>
