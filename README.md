@@ -21,7 +21,7 @@
         title="Coding"
         src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding2.gif?raw=true" 
         width="280" 
-        height="480"
+        height="470"
         align="right">
     </a>
  
