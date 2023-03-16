@@ -12,19 +12,16 @@
       </a>
 </div>
 
-<div style="width="280";height="420">
+<div style="width: 280;height: 420">
 </div>
+                                    
+  <div>
+ <br> 
+<br>
+  </div>
 
 <div>
-     <a>
-        <img
-        title="Coding"
-        src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding2.gif?raw=true" 
-        width="280" 
-        height="460"
-        align="right">
-    </a>
- 
+
 <p>
   <em> Olá mi Hermano! Meu nome é Renato, 24 , Estudante de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - 
    <a 
@@ -56,26 +53,77 @@
   <br>
   </em>
 </p> 
-
-  ```csharp
-using System;
-
-namespace About Me 😁😎
-{
-    class Program Form
-    { 
-        static void Main(string[] args)
-        { 
-            Person.Name = "Renato Santos"; 
-            Person.Email =  $"my email for contact is {Renato.santos.corporativo@outlook.com} :D";
-            Person.Stack = $"{CSharp} with {Angular} and {SqlServer} or {MySql} "; 
-        }
-    }
-}  
-```  
  </div>
 
-<h1 align="center"> KEEP SAFE AND LET'S CODE!</h1>
+<!--
+<div>
+    <div align="left">
+        <figure>
+            <img
+            title="Coding"
+            src="https://github.com/W4rL0ck1/W4rL0ck1/blob/master/ImagesBranch/coding2.gif?raw=true" 
+            width="220" 
+            height="440"
+            style="padding-left: 80px;">
+        </figure>
+    </div>
+   <div align="right">
+        <figure>
+            <img
+            title="Coding"
+            src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
+            width="220" 
+            height="440"
+            style="padding-left: 80px;">
+        </figure>
+    </div>
+</div>
+-->
+
+
+<div>
+
+
+```csharp
+using System;
+
+namespace MyLibrary
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Renato ren = new Renato();
+            Console.WriteLine(ren.ToString());
+        }
+    }
+    public class Renato
+    {
+        public string name { get;}
+        public string email { get; }
+        public string number { get; }
+        public string role { get; }
+
+        public Renato()
+        {
+            this.name = "Renato Santos 😁😎";
+            this.email = "renato.santos.corporativo@outlook.com";
+            this.number = "contact me and ask it if necessary!";
+            this.role = "Back End Software Developer, working with Python, .Net Core 3+, Node.js with typescript and Angular 8+";
+        }
+
+        public override string ToString()
+        {
+            return $"Developer: {this.name}, email: {this.email}, working at the moment as {this.role}";
+        }
+    }
+}
+```  
+</div>
+
+<p align="center">
+<em> KEEP SAFE AND LET'S CODE!</em>
+</p>
 
 <div>
    <img     
@@ -85,19 +133,3 @@ namespace About Me 😁😎
     height="450"
     align="right"> 
  </div>
-
-
-
-
-
-
-
-            
-            
-       
-
-
-     
-  
-
- 
