@@ -23,7 +23,7 @@
 <div>
 
 <p>
-  <em> Olá mi Hermano! Meu nome é Renato, 24 , Estudante de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - 
+  <em> Olá! Meu nome é Renato, 24 , Estudante de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - 
    <a 
     title="IFSP"
     href="https://cbt.ifsp.edu.br">
