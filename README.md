@@ -93,23 +93,23 @@ namespace MyLibrary
     {
         static void Main(string[] args)
         {
-            Renato ren = new Renato();
-            Console.WriteLine(ren.ToString());
+            Person per = new Person();
+            Console.WriteLine(per.ToString());
         }
     }
-    public class Renato
+    public class Person
     {
         public string name { get;}
         public string email { get; }
         public string number { get; }
         public string role { get; }
 
-        public Renato()
+        public Person()
         {
             this.name = "Renato Santos 😁😎";
             this.email = "renato.santos.corporativo@outlook.com";
             this.number = "contact me and ask it if necessary!";
-            this.role = "Back End Software Developer, working with Python, .Net Core 3+, Node.js with typescript and Angular 8+";
+            this.role = "Fullstack Developer, working with .Net Core 3+, Node.js w/ typescript and Angular 8+";
         }
 
         public override string ToString()
